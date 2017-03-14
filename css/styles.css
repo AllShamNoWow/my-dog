@@ -1,0 +1,54 @@
+h1 {
+  text-align: center;
+  font-family: 'Bungee';
+}
+.dog {
+  text-align: center;
+  padding-bottom: 150px;
+}
+
+#llama {
+  float:right;
+  margin-top: -400px
+}
+#penguin {
+  height: 300px;
+  width: auto;
+  float: left;
+  margin-top: -300px;
+}
+img {
+  margin-top: 50px;
+  height: 400px;
+  width: auto;
+  border-radius: 50px;
+}
+
+.text {
+  text-align: center;
+  background-color: #efbbff;
+  padding: 10px;
+}
+h2 {
+  font-family: sans-serif;
+
+}
+ul {
+  list-style: none;
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+li {
+  padding: 10px;
+  font-size: 20px;
+}
+
+hr {
+  width: 500px;
+}
+body{
+  background-color: #17ed0b;
+  border-width: thick;
+  border-style: dashed;;
+}
